@@ -9,6 +9,6 @@ public class indexController {
 
     @GetMapping("/aaa")
     public String index(){
-        return "index1";
+        return "index";
     }
 }
